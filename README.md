@@ -14,6 +14,6 @@ Currently, I am focused on **Explainable AI (XAI)** and have experience in **AI,
 - **Domains:** Machine Learning (ML), Deep Learning (DL), Computer Vision
 
 ## 📄 CV
-Download my CV [here](cv/ZelihaKarapinar_CV.pdf).
+Download my CV [here](ZelihaKarapinar_CV.pdf).
 
 
