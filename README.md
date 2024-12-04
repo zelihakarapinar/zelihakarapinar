@@ -16,14 +16,18 @@
 - **📜 Experience:** Learn more about my journey and expertise in my CV [here](ZelihaKarapinar_CV.pdf).
 
 ### 💼 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeliha-h-karap%C4%B1nar-29434a198/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeliha-h-karap%C4%B1nar-29434a198/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 
 ### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/Matlab-000000?style=for-the-badge&logo=matlab" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch"/>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
 </p>
 
 
