@@ -13,7 +13,6 @@
 
 ### 📂 My Work:
 - **📂 Projects:** Explore all my projects on [GitHub](https://github.com/zelihakarapinar).
-- **📜 Experience:** Learn more about my journey and expertise in my CV [here](ZelihaKarapinar_CV.pdf).
 
 ### 💼 Connect with Me:
 <p align="left">
