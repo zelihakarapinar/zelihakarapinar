@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zeliha Karapınar  
+# Hi, I'm Zeliha Karapınar  
 
 **Mechanical Engineer | Enthusiast in Machine Learning, Deep Learning, and Artificial Intelligence**  
 
@@ -11,10 +11,10 @@
 
 
 
-### 📂 My Work:
-- **📂 Projects:** Explore all my projects on [GitHub](https://github.com/zelihakarapinar).
+###  My Work:
+- ** Projects:** Explore all my projects on [GitHub](https://github.com/zelihakarapinar).
 
-### 💼 Connect with Me:
+### Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/zeliha-h-karap%C4%B1nar-29434a198/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40"/>
@@ -22,7 +22,7 @@
 </p>
 
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
