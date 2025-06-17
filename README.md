@@ -12,7 +12,7 @@
 
 
 ###  My Work:
-- ** Projects:** Explore all my projects on [GitHub](https://github.com/zelihakarapinar).
+- ** Projects: ** Explore all my projects on [GitHub](https://github.com/zelihakarapinar).
 
 ### Connect with Me:
 <p align="left">
